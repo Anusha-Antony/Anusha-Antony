@@ -42,7 +42,8 @@ I am particularly interested in:
   <img src="https://img.shields.io/badge/C-E0BBE4?style=for-the-badge&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-FADADD?style=for-the-badge&logo=java&logoColor=black"/>
 </p>
-## 🌱 Currently Learning
+
+### 📗 Currently Learning
 
 - Advanced Full Stack Development  
 - Machine Learning Model Building  
@@ -65,12 +66,12 @@ If you’re interested in collaborating or discussing ideas, feel free to connec
 ## 📫 Connect With Me
 
 - **GitHub:** [github.com/Anusha-Antony](https://github.com/Anusha-Antony)  
-- **LinkedIn:** *([LinkedIn](https://www.linkedin.com/in/anusha-antony244/)*  
-- **Email:** * [anushaantony204@gmail.com]*  
+- **LinkedIn:** ([LinkedIn](https://www.linkedin.com/in/anusha-antony244/)  
+- **Email:** [anushaantony204@gmail.com]
 
 ---
 
-⭐ *Thank you for visiting my GitHub profile!*  
+⭐ **Thank you for visiting my GitHub profile!** 
 I’m always open to learning, building, and growing as a developer.
 
 <!---
