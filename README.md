@@ -11,10 +11,10 @@
 I am a passionate **Software Engineer** with expertise in **full-stack web development** and a strong foundation in **data-driven solutions**. I thrive on building efficient, scalable applications and enjoy tackling complex problems through code.
 
 Currently, I am focused on:
-- 🔹 Developing **end-to-end web applications** using the **MERN stack**
-- 🔹 Designing **clean, maintainable, and scalable software architectures**
-- 🔹 Exploring **AI-powered automation** and **intelligent systems**
-- 🔹 Contributing to **open-source projects** and collaborative development
+-  Developing **end-to-end web applications** using the **MERN stack**
+-  Designing **clean, maintainable, and scalable software architectures**
+-  Exploring **AI-powered automation** and **intelligent systems**
+-  Contributing to **open-source projects** and collaborative development
 
 ---
 
@@ -85,11 +85,11 @@ Currently, I am focused on:
 
 ## 📚 Currently Learning
 
-- 🔹 **Advanced React Patterns** (Context API, Custom Hooks, Performance Optimization)
-- 🔹 **Microservices Architecture** with Node.js
-- 🔹 **Machine Learning & AI Integration** in Web Applications
-- 🔹 **Cloud Deployment** (AWS, Docker, CI/CD Pipelines)
-- 🔹 **TypeScript** for type-safe JavaScript development
+ 🔹 **Advanced React Patterns** (Context API, Custom Hooks, Performance Optimization)
+ 🔹 **Microservices Architecture** with Node.js
+ 🔹 **Machine Learning & AI Integration** in Web Applications
+ 🔹 **Cloud Deployment** (AWS, Docker, CI/CD Pipelines)
+ 🔹 **TypeScript** for type-safe JavaScript development
 
 ---
 
