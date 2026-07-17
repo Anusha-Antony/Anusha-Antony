@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anusha Antony
 
 🎓 **B.Tech in Computer Science and Engineering**  
-💻 **Full-Stack Developer | MERN Stack Enthusiast | Problem Solver**  
+💻 **Aspiring Software Engineer | AI Enthusiast | Full-Stack Developer**  
 🌟 **Building scalable, user-centric applications with modern technologies**
 
 ---
